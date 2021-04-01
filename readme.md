@@ -5,3 +5,9 @@ List of Facilitator:
   
 List of Participants
 - Nirajan Mahara
+- Sandesh Pandey
+- Nabin Dahal
+- Urusha Udas
+- Sagar Rai
+- Yougal Bimali
+
