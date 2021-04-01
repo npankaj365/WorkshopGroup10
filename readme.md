@@ -5,3 +5,8 @@ List of Facilitator:
   
 List of Participants
 - Lekhnath Parajuli
+- Sandesh Pandey
+- Nabin Dahal
+- Urusha Udas
+- Sagar Rai
+- Yougal Bimali
