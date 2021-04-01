@@ -4,6 +4,7 @@ List of Facilitator:
 - Pankaj Niroula
   
 List of Participants
+- karuna shrestha
 - Sandesh Pandey
 - Nabin Dahal
 - Urusha Udas
