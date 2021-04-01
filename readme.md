@@ -4,4 +4,4 @@ List of Facilitator:
 - Pankaj Niroula
   
 List of Participants
-- Saman K.C.
+- Saman KC
