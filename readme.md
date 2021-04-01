@@ -5,6 +5,7 @@ List of Facilitator:
   
 List of Participants
 - Saman K.C.
+- Sandesh Pandey
 - Nabin Dahal
 - Urusha Udas
 - Sagar Rai
