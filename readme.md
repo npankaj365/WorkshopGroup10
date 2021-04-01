@@ -4,4 +4,7 @@ List of Facilitator:
 - Pankaj Niroula
   
 List of Participants
+
 - Sagar Rai
+- Yougal Bimali
+
