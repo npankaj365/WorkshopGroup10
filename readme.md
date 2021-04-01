@@ -5,3 +5,8 @@ List of Facilitator:
   
 List of Participants
 - karuna shrestha
+- Sandesh Pandey
+- Nabin Dahal
+- Urusha Udas
+- Sagar Rai
+- Yougal Bimali
