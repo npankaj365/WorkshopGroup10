@@ -4,7 +4,7 @@ List of Facilitator:
 - Pankaj Niroula
   
 List of Participants
-- Saman K.C.
+- SAMAN K.C.
 - Sandesh Pandey
 - Nabin Dahal
 - Urusha Udas
