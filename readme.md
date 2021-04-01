@@ -5,3 +5,9 @@ List of Facilitator:
   
 List of Participants
 - Dilip Yogi
+- Sandesh Pandey
+- Nabin Dahal
+- Urusha Udas
+- Sagar Rai
+- Yougal Bimali
+
