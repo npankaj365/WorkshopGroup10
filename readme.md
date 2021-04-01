@@ -5,3 +5,8 @@ List of Facilitator:
   
 List of Participants
 - susanta bhujel
+- Nabin Dahal
+- Urusha Udas
+- Sagar Rai
+- Yougal Bimali
+
